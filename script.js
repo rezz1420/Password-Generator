@@ -26,7 +26,7 @@ function generatePassword() {
   }
   //Number criteria prompt
   var numbersPrompt = confirm(
-    "Would you like to a number in your password?"
+    "Would you like a number in your password?"
   );
   //Uppercase criteria prompt
   var upperCasePrompt = confirm(
